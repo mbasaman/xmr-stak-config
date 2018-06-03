@@ -31,3 +31,8 @@
 *.out
 *.app
 /.project
+/CMakeCache.txt
+/CMakeFiles/
+/Makefile
+/cmake_install.cmake
+/xmr-stak-config
