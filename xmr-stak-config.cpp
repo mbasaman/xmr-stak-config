@@ -240,11 +240,11 @@ void xmr_stak_config_t::run_xmrstak(const string& config) {
 
 	string hashrate = get_hashrate();
 
-	int wait(0);
+	int timeout(0);
 
-	while(hashrate == "0.0" && wait < delay) {
+	while(hashrate == "0.0" && timeout < delay) {
 		sleep(5);
-		wait += 5;
+		timeout += 5;
 		hashrate = get_hashrate();
 	}
 
