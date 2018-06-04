@@ -9,6 +9,8 @@
    configurations: 434
 estimated runtime: 9:02:30
 
+// power options > 100 use branched code optimized for prefetch with (N - 100) hashes at a time
+// about 20% improvement in local testing
 
 "cpu_threads_conf" :
 [
