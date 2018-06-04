@@ -1,0 +1,4297 @@
+    power options: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 103 104 105 106 107 108 109 110 111 112 113 114 115
+           branch: more_options_dev
+
+  number of cores: 2
+ threads_per_core: 2
+        test time: 75 seconds
+    power options: 28
+ prefetch options: 1
+   configurations: 434
+estimated runtime: 9:02:30
+
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 109, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 112, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 109, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 112, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 86.1
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 109, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 111, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 109, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 111, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 86
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 107, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 109, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 107, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 109, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 85.5
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 109, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 109, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 109, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 109, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 85.4
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 109, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 113, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 109, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 113, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 85.3
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 108, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 109, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 108, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 109, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 85.3
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 109, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 110, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 109, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 110, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 85.2
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 106, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 109, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 106, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 109, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 85
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 109, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 114, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 109, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 114, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 84.8
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 108, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 112, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 108, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 112, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 84.8
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 105, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 109, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 105, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 109, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 84.8
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 109, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 115, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 109, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 115, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 84.7
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 106, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 112, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 106, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 112, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 84.6
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 104, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 109, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 104, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 109, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 84
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 107, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 112, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 107, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 112, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 83.9
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 7, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 109, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 7, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 109, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 83.4
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 6, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 109, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 6, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 109, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 83.4
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 11, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 109, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 11, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 109, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 83.2
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 9, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 109, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 9, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 109, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 83.2
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 4, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 109, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 4, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 109, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 83.1
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 110, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 112, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 110, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 112, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 82.9
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 8, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 109, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 8, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 109, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 82.9
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 105, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 108, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 105, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 108, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 82.8
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 7, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 110, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 7, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 110, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 82.7
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 103, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 112, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 103, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 112, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 82.6
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 12, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 109, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 12, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 109, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 82.6
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 105, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 112, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 105, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 112, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 82.5
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 14, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 109, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 14, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 109, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 82.5
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 112, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 112, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 112, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 112, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 82.4
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 10, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 109, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 10, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 109, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 82.4
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 104, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 112, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 104, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 112, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 82.2
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 5, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 109, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 5, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 109, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 82.2
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 13, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 109, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 13, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 109, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 81.9
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 7, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 112, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 7, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 112, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 81.9
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 103, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 109, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 103, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 109, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 81.7
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 8, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 112, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 8, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 112, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 81.7
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 112, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 113, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 112, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 113, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 81.6
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 6, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 112, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 6, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 112, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 81.6
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 111, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 112, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 111, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 112, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 81.5
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 8, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 111, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 8, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 111, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 81.5
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 107, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 107, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 107, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 107, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 81.2
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 15, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 109, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 15, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 109, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 81.2
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 3, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 109, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 3, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 109, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 81.2
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 11, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 112, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 11, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 112, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 81.1
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 106, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 108, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 106, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 108, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 81
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 4, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 112, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 4, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 112, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 80.9
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 10, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 112, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 10, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 112, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 80.7
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 9, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 112, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 9, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 112, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 80.6
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 5, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 112, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 5, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 112, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 80.6
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 106, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 111, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 106, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 111, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 80.4
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 105, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 110, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 105, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 110, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 80.4
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 107, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 110, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 107, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 110, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 80.2
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 105, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 111, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 105, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 111, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 80.2
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 3, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 112, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 3, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 112, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 80.2
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 108, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 111, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 108, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 111, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 80.1
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 108, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 110, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 108, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 110, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 80.1
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 106, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 107, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 106, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 107, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 80.1
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 108, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 113, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 108, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 113, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 80
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 106, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 110, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 106, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 110, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 80
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 9, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 108, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 9, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 108, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 80
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 107, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 114, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 107, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 114, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 79.9
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 107, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 108, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 107, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 108, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 79.9
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 105, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 107, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 105, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 107, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 79.9
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 105, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 106, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 105, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 106, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 79.9
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 112, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 112, "no_prefetch" : false, "affine_to_cpu" : 2},
+],
+
+Hashrate: 79.8
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 104, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 106, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 104, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 106, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 79.7
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 108, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 114, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 108, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 114, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 79.6
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 106, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 106, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 106, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 106, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 79.6
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 104, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 114, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 104, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 114, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 79.6
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 107, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 115, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 107, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 115, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 79.5
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 105, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 105, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 105, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 105, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 79.5
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 111, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 111, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 111, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 111, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 79.4
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 108, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 115, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 108, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 115, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 79.4
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 104, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 107, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 104, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 107, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 79.4
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 8, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 108, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 8, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 108, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 79.4
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 5, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 107, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 5, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 107, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 79.4
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 2, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 112, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 2, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 112, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 79.4
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 107, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 111, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 107, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 111, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 79.3
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 14, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 112, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 14, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 112, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 79.3
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 7, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 108, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 7, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 108, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 79.3
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 3, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 113, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 3, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 113, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 79.3
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 111, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 113, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 111, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 113, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 79.2
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 13, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 112, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 13, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 112, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 79.2
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 7, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 107, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 7, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 107, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 79.2
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 112, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 115, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 112, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 115, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 79.1
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 104, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 110, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 104, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 110, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 79.1
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 5, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 108, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 5, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 108, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 79.1
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 4, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 108, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 4, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 108, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 79.1
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 106, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 113, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 106, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 113, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 79
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 11, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 111, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 11, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 111, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 79
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 110, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 114, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 110, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 114, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 78.9
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 110, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 111, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 110, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 111, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 78.9
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 107, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 113, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 107, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 113, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 78.9
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 104, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 108, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 104, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 108, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 78.9
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 103, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 111, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 103, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 111, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 78.9
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 103, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 108, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 103, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 108, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 78.9
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 5, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 110, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 5, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 110, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 78.9
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 4, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 110, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 4, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 110, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 78.9
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 2, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 109, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 2, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 109, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 78.9
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 112, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 114, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 112, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 114, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 78.8
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 110, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 115, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 110, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 115, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 78.8
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 109, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 109, "no_prefetch" : false, "affine_to_cpu" : 2},
+],
+
+Hashrate: 78.8
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 106, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 114, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 106, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 114, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 78.8
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 8, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 110, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 8, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 110, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 78.8
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 6, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 108, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 6, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 108, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 78.8
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 5, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 106, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 5, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 106, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 78.8
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 113, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 115, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 113, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 115, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 78.7
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 110, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 113, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 110, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 113, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 78.7
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 110, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 110, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 110, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 110, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 78.7
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 108, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 108, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 108, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 108, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 78.7
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 106, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 115, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 106, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 115, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 78.7
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 105, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 114, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 105, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 114, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 78.7
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 6, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 111, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 6, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 111, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 78.7
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 5, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 111, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 5, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 111, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 78.7
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 114, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 115, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 114, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 115, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 78.6
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 104, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 111, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 104, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 111, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 78.6
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 15, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 112, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 15, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 112, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 78.6
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 5, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 114, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 5, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 114, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 78.6
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 5, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 113, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 5, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 113, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 78.6
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 4, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 115, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 4, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 115, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 78.6
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 111, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 114, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 111, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 114, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 78.5
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 105, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 115, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 105, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 115, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 78.5
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 104, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 113, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 104, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 113, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 78.5
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 103, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 114, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 103, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 114, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 78.5
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 103, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 107, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 103, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 107, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 78.5
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 12, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 112, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 12, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 112, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 78.5
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 8, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 114, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 8, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 114, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 78.5
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 6, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 110, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 6, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 110, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 78.5
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 6, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 107, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 6, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 107, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 78.5
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 3, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 110, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 3, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 110, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 78.5
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 111, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 115, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 111, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 115, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 78.4
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 12, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 111, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 12, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 111, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 78.4
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 11, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 108, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 11, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 108, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 78.4
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 103, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 110, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 103, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 110, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 78.3
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 7, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 113, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 7, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 113, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 78.3
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 4, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 107, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 4, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 107, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 78.3
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 104, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 105, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 104, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 105, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 78.2
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 11, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 113, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 11, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 113, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 78.2
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 9, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 110, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 9, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 110, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 78.2
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 8, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 113, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 8, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 113, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 78.2
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 8, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 106, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 8, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 106, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 78.2
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 6, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 114, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 6, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 114, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 78.2
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 6, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 106, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 6, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 106, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 78.2
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 4, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 113, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 4, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 113, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 78.2
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 113, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 114, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 113, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 114, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 78.1
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 105, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 113, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 105, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 113, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 78.1
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 10, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 114, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 10, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 114, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 78.1
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 9, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 107, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 9, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 107, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 78.1
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 8, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 107, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 8, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 107, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 78.1
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 7, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 111, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 7, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 111, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 78.1
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 3, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 111, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 3, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 111, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 78.1
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 11, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 110, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 11, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 110, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 78
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 10, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 108, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 10, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 108, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 78
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 4, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 114, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 4, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 114, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 78
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 3, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 108, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 3, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 108, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 78
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 11, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 107, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 11, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 107, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 77.9
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 10, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 113, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 10, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 113, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 77.9
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 9, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 114, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 9, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 114, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 77.9
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 9, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 111, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 9, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 111, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 77.9
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 8, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 115, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 8, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 115, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 77.9
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 7, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 114, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 7, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 114, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 77.9
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 7, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 106, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 7, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 106, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 77.9
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 6, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 113, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 6, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 113, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 77.9
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 4, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 106, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 4, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 106, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 77.9
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 114, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 114, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 114, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 114, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 77.8
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 104, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 115, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 104, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 115, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 77.8
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 14, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 111, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 14, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 111, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 77.8
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 12, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 106, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 12, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 106, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 77.8
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 9, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 113, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 9, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 113, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 77.8
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 4, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 111, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 4, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 111, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 77.8
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 3, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 114, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 3, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 114, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 77.8
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 12, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 108, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 12, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 108, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 77.7
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 12, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 107, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 12, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 107, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 77.7
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 3, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 107, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 3, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 107, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 77.7
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 12, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 110, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 12, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 110, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 77.6
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 10, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 111, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 10, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 111, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 77.6
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 9, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 106, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 9, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 106, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 77.6
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 6, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 115, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 6, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 115, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 77.6
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 111, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 111, "no_prefetch" : false, "affine_to_cpu" : 2},
+],
+
+Hashrate: 77.5
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 103, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 113, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 103, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 113, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 77.5
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 14, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 107, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 14, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 107, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 77.5
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 11, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 106, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 11, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 106, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 77.5
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 5, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 115, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 5, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 115, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 77.5
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 114, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 114, "no_prefetch" : false, "affine_to_cpu" : 2},
+],
+
+Hashrate: 77.4
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 110, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 110, "no_prefetch" : false, "affine_to_cpu" : 2},
+],
+
+Hashrate: 77.4
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 14, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 114, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 14, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 114, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 77.4
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 14, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 110, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 14, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 110, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 77.4
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 10, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 115, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 10, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 115, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 77.4
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 10, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 110, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 10, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 110, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 77.4
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 14, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 113, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 14, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 113, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 77.3
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 9, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 115, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 9, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 115, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 77.3
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 14, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 108, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 14, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 108, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 77.2
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 10, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 107, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 10, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 107, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 77.2
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 2, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 113, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 2, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 113, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 77.2
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 103, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 115, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 103, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 115, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 77.1
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 13, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 108, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 13, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 108, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 77.1
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 12, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 114, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 12, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 114, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 77.1
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 11, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 114, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 11, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 114, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 77.1
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 5, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 105, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 5, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 105, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 77.1
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 13, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 110, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 13, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 110, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 77
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 10, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 106, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 10, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 106, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 77
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 7, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 115, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 7, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 115, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 77
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 7, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 105, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 7, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 105, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 77
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 113, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 113, "no_prefetch" : false, "affine_to_cpu" : 2},
+],
+
+Hashrate: 76.9
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 103, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 106, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 103, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 106, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 76.9
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 6, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 105, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 6, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 105, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 76.9
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 115, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 115, "no_prefetch" : false, "affine_to_cpu" : 2},
+],
+
+Hashrate: 76.8
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 13, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 115, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 13, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 115, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 76.8
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 13, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 114, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 13, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 114, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 76.8
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 12, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 113, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 12, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 113, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 76.8
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 3, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 115, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 3, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 115, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 76.8
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 115, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 115, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 115, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 115, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 76.7
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 15, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 110, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 15, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 110, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 76.7
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 14, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 115, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 14, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 115, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 76.7
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 13, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 111, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 13, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 111, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 76.7
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 15, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 108, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 15, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 108, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 76.6
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 11, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 115, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 11, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 115, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 76.6
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 8, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 105, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 8, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 105, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 76.5
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 2, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 111, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 2, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 111, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 76.5
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 15, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 113, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 15, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 113, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 76.4
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 13, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 113, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 13, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 113, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 76.4
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 13, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 107, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 13, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 107, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 76.4
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 15, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 114, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 15, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 114, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 76.1
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 15, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 107, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 15, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 107, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 76.1
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 14, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 106, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 14, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 106, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 76.1
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 12, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 115, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 12, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 115, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 76.1
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 15, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 111, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 15, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 111, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 76
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 3, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 106, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 3, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 106, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 76
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 11, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 105, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 11, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 105, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 75.9
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 2, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 115, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 2, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 115, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 75.9
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 15, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 115, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 15, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 115, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 75.7
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 2, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 108, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 2, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 108, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 75.7
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 15, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 106, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 15, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 106, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 75.5
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 4, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 105, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 4, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 105, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 75.5
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 2, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 110, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 2, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 110, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 75.4
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 10, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 10, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 10, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 10, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 75.3
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 13, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 106, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 13, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 106, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 75.2
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 10, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 105, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 10, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 105, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 75.2
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 12, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 105, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 12, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 105, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 75.1
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 2, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 114, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 2, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 114, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 75.1
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 104, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 104, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 104, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 104, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 74.8
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 7, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 104, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 7, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 104, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 74.8
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 9, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 105, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 9, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 105, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 74.7
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 9, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 9, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 9, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 9, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 74.7
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 8, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 8, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 8, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 8, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 74.7
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 2, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 107, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 2, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 107, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 74.7
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 1, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 112, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 1, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 112, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 74.7
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 14, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 105, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 14, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 105, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 74.4
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 11, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 11, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 11, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 11, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 74.4
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 6, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 104, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 6, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 104, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 74.3
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 8, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 104, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 8, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 104, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 74.2
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 113, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 113, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 113, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 113, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 74
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 103, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 105, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 103, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 105, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 74
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 8, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 9, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 8, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 9, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 73.9
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 7, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 8, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 7, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 8, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 73.9
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 7, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 7, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 7, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 7, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 73.9
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 1, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 111, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 1, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 111, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 73.9
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 13, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 105, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 13, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 105, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 73.8
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 8, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 10, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 8, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 10, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 73.8
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 9, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 10, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 9, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 10, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 73.7
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 6, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 6, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 6, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 6, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 73.7
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 1, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 113, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 1, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 113, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 73.7
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 5, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 104, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 5, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 104, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 73.6
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 1, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 115, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 1, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 115, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 73.5
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 7, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 10, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 7, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 10, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 73.4
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 5, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 5, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 5, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 5, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 73.4
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 15, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 105, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 15, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 105, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 73.3
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 11, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 104, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 11, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 104, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 73.3
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 10, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 11, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 10, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 11, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 73.3
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 9, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 15, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 9, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 15, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 73.3
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 6, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 7, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 6, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 7, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 73.3
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 1, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 110, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 1, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 110, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 73.3
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 7, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 9, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 7, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 9, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 73.2
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 9, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 104, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 9, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 104, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 73.1
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 6, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 8, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 6, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 8, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 73.1
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 1, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 114, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 1, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 114, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 73
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 108, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 108, "no_prefetch" : false, "affine_to_cpu" : 2},
+],
+
+Hashrate: 72.9
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 5, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 7, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 5, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 7, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 72.9
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 3, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 105, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 3, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 105, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 72.9
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 6, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 9, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 6, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 9, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 72.8
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 13, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 104, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 13, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 104, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 72.7
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 11, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 12, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 11, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 12, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 72.7
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 9, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 11, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 9, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 11, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 72.7
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 1, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 109, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 1, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 109, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 72.7
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 8, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 11, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 8, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 11, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 72.6
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 5, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 8, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 5, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 8, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 72.5
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 5, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 6, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 5, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 6, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 72.4
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 12, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 104, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 12, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 104, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 72.2
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 10, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 104, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 10, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 104, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 72.1
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 10, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 12, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 10, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 12, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 72
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 2, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 106, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 2, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 106, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 72
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 12, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 12, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 12, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 12, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 71.9
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 8, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 12, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 8, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 12, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 71.9
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 9, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 12, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 9, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 12, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 71.8
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 7, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 11, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 7, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 11, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 71.8
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 6, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 10, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 6, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 10, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 71.8
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 5, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 9, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 5, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 9, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 71.8
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 15, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 104, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 15, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 104, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 71.6
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 4, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 7, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 4, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 7, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 71.6
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 11, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 13, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 11, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 13, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 71.5
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 8, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 103, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 8, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 103, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 71.5
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 5, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 11, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 5, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 11, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 71.5
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 14, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 104, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 14, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 104, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 71.4
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 7, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 12, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 7, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 12, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 71.3
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 5, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 10, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 5, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 10, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 71.3
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 4, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 104, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 4, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 104, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 71.3
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 4, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 6, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 4, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 6, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 71.3
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 10, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 14, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 10, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 14, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 71.2
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 5, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 13, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 5, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 13, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 71.2
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 4, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 8, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 4, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 8, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 71.2
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 8, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 13, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 8, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 13, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 71.1
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 6, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 11, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 6, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 11, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 71.1
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 10, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 13, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 10, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 13, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 70.9
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 1, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 108, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 1, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 108, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 70.9
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 8, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 14, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 8, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 14, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 70.8
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 7, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 13, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 7, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 13, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 70.8
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 5, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 12, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 5, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 12, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 70.8
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 8, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 15, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 8, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 15, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 70.7
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 11, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 14, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 11, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 14, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 70.6
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 10, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 15, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 10, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 15, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 70.6
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 7, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 14, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 7, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 14, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 70.6
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 9, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 14, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 9, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 14, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 70.5
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 9, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 13, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 9, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 13, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 70.5
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 7, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 103, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 7, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 103, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 70.5
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 13, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 13, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 13, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 13, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 70.4
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 6, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 13, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 6, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 13, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 70.4
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 4, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 10, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 4, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 10, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 70.4
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 12, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 13, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 12, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 13, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 70.3
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 4, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 5, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 4, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 5, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 70.3
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 6, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 12, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 6, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 12, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 70.2
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 7, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 15, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 7, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 15, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 70.1
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 5, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 14, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 5, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 14, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 70.1
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 15, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 15, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 15, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 15, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 69.9
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 12, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 14, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 12, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 14, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 69.9
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 14, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 14, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 14, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 14, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 69.7
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 5, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 15, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 5, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 15, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 69.7
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 6, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 15, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 6, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 15, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 69.6
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 13, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 15, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 13, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 15, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 69.5
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 9, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 103, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 9, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 103, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 69.5
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 6, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 14, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 6, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 14, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 69.5
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 14, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 103, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 14, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 103, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 69.4
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 10, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 103, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 10, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 103, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 69.4
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 11, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 15, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 11, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 15, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 69.3
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 4, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 9, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 4, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 9, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 69.3
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 3, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 7, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 3, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 7, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 69.3
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 12, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 15, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 12, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 15, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 69.2
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 6, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 103, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 6, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 103, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 69.2
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 4, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 14, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 4, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 14, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 69.1
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 3, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 8, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 3, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 8, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 69.1
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 103, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 104, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 103, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 104, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 68.9
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 14, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 15, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 14, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 15, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 68.9
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 4, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 12, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 4, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 12, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 68.8
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 4, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 11, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 4, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 11, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 68.8
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 5, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 103, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 5, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 103, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 68.7
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 15, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 103, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 15, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 103, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 68.6
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 12, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 103, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 12, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 103, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 68.6
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 4, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 15, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 4, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 15, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 68.6
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 4, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 13, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 4, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 13, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 68.6
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 1, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 107, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 1, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 107, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 68.6
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 13, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 14, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 13, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 14, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 68.5
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 3, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 9, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 3, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 9, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 68.3
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 2, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 105, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 2, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 105, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 68.3
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 11, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 103, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 11, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 103, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 68.2
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 3, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 6, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 3, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 6, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 68.2
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 4, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 4, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 4, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 4, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 68.1
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 3, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 10, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 3, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 10, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 68.1
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 107, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 107, "no_prefetch" : false, "affine_to_cpu" : 2},
+],
+
+Hashrate: 68
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 3, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 104, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 3, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 104, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 67.7
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 13, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 103, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 13, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 103, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 67.5
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 3, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 13, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 3, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 13, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 67.4
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 3, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 11, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 3, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 11, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 67.4
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 3, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 15, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 3, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 15, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 67.2
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 3, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 12, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 3, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 12, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 67.1
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 3, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 14, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 3, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 14, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 67
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 3, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 5, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 3, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 5, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 66.8
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 2, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 8, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 2, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 8, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 66.6
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 1, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 106, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 1, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 106, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 66.2
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 2, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 7, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 2, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 7, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 65.9
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 10, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 10, "no_prefetch" : false, "affine_to_cpu" : 2},
+],
+
+Hashrate: 65.6
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 4, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 103, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 4, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 103, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 65.5
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 2, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 9, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 2, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 9, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 65
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 2, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 10, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 2, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 10, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 64.8
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 2, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 6, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 2, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 6, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 64.8
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 11, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 11, "no_prefetch" : false, "affine_to_cpu" : 2},
+],
+
+Hashrate: 64.7
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 2, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 12, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 2, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 12, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 64.6
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 2, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 11, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 2, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 11, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 64.5
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 2, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 14, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 2, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 14, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 64.4
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 3, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 4, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 3, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 4, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 64.1
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 9, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 9, "no_prefetch" : false, "affine_to_cpu" : 2},
+],
+
+Hashrate: 64
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 2, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 15, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 2, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 15, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 64
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 2, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 13, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 2, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 13, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 63.7
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 103, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 103, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 103, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 103, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 63.5
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 2, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 5, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 2, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 5, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 63.1
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 2, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 104, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 2, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 104, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 63
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 106, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 106, "no_prefetch" : false, "affine_to_cpu" : 2},
+],
+
+Hashrate: 62.2
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 8, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 8, "no_prefetch" : false, "affine_to_cpu" : 2},
+],
+
+Hashrate: 61.6
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 3, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 103, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 3, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 103, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 61.6
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 12, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 12, "no_prefetch" : false, "affine_to_cpu" : 2},
+],
+
+Hashrate: 61.4
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 1, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 105, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 1, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 105, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 61.1
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 3, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 3, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 3, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 3, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 60
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 2, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 4, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 2, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 4, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 59.8
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 14, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 14, "no_prefetch" : false, "affine_to_cpu" : 2},
+],
+
+Hashrate: 59.6
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 1, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 9, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 1, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 9, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 59.6
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 15, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 15, "no_prefetch" : false, "affine_to_cpu" : 2},
+],
+
+Hashrate: 59.5
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 1, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 8, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 1, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 8, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 59.5
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 13, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 13, "no_prefetch" : false, "affine_to_cpu" : 2},
+],
+
+Hashrate: 59.4
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 1, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 10, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 1, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 10, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 59.4
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 7, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 7, "no_prefetch" : false, "affine_to_cpu" : 2},
+],
+
+Hashrate: 58.8
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 1, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 7, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 1, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 7, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 58.6
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 1, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 11, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 1, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 11, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 58
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 1, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 15, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 1, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 15, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 57.7
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 1, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 6, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 1, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 6, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 57.7
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 1, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 12, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 1, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 12, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 57.6
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 1, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 14, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 1, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 14, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 57.4
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 1, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 13, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 1, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 13, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 57.4
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 2, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 103, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 2, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 103, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 57.2
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 1, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 104, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 1, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 104, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 56.5
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 1, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 5, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 1, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 5, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 56.2
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 6, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 6, "no_prefetch" : false, "affine_to_cpu" : 2},
+],
+
+Hashrate: 55.7
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 105, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 105, "no_prefetch" : false, "affine_to_cpu" : 2},
+],
+
+Hashrate: 55.6
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 2, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 3, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 2, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 3, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 55
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 5, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 5, "no_prefetch" : false, "affine_to_cpu" : 2},
+],
+
+Hashrate: 53.2
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 1, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 4, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 1, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 4, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 53.1
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 1, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 103, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 1, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 103, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 50.7
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 2, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 2, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 2, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 2, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 49.6
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 104, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 104, "no_prefetch" : false, "affine_to_cpu" : 2},
+],
+
+Hashrate: 48.7
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 1, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 3, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 1, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 3, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 48.3
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 4, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 4, "no_prefetch" : false, "affine_to_cpu" : 2},
+],
+
+Hashrate: 47.8
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 1, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 2, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 1, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 2, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 41.1
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 103, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 103, "no_prefetch" : false, "affine_to_cpu" : 2},
+],
+
+Hashrate: 40.6
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 3, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 3, "no_prefetch" : false, "affine_to_cpu" : 2},
+],
+
+Hashrate: 40.5
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 1, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 1, "no_prefetch" : false, "affine_to_cpu" : 1},
+{ "low_power_mode" : 1, "no_prefetch" : false, "affine_to_cpu" : 2},
+{ "low_power_mode" : 1, "no_prefetch" : false, "affine_to_cpu" : 3},
+],
+
+Hashrate: 34.4
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 2, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 2, "no_prefetch" : false, "affine_to_cpu" : 2},
+],
+
+Hashrate: 33.5
+
+"cpu_threads_conf" :
+[
+{ "low_power_mode" : 1, "no_prefetch" : false, "affine_to_cpu" : 0},
+{ "low_power_mode" : 1, "no_prefetch" : false, "affine_to_cpu" : 2},
+],
+
+Hashrate: 31.3
+
+
